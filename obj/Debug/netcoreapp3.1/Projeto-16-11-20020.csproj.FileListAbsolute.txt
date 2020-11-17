@@ -1,0 +1,13 @@
+C:\Projetos SENAI\Projeto-16-11-20020\bin\Debug\netcoreapp3.1\Projeto-16-11-20020.exe
+C:\Projetos SENAI\Projeto-16-11-20020\bin\Debug\netcoreapp3.1\Projeto-16-11-20020.deps.json
+C:\Projetos SENAI\Projeto-16-11-20020\bin\Debug\netcoreapp3.1\Projeto-16-11-20020.runtimeconfig.json
+C:\Projetos SENAI\Projeto-16-11-20020\bin\Debug\netcoreapp3.1\Projeto-16-11-20020.runtimeconfig.dev.json
+C:\Projetos SENAI\Projeto-16-11-20020\bin\Debug\netcoreapp3.1\Projeto-16-11-20020.dll
+C:\Projetos SENAI\Projeto-16-11-20020\bin\Debug\netcoreapp3.1\Projeto-16-11-20020.pdb
+C:\Projetos SENAI\Projeto-16-11-20020\obj\Debug\netcoreapp3.1\Projeto-16-11-20020.csprojAssemblyReference.cache
+C:\Projetos SENAI\Projeto-16-11-20020\obj\Debug\netcoreapp3.1\Projeto-16-11-20020.AssemblyInfoInputs.cache
+C:\Projetos SENAI\Projeto-16-11-20020\obj\Debug\netcoreapp3.1\Projeto-16-11-20020.AssemblyInfo.cs
+C:\Projetos SENAI\Projeto-16-11-20020\obj\Debug\netcoreapp3.1\Projeto-16-11-20020.csproj.CoreCompileInputs.cache
+C:\Projetos SENAI\Projeto-16-11-20020\obj\Debug\netcoreapp3.1\Projeto-16-11-20020.dll
+C:\Projetos SENAI\Projeto-16-11-20020\obj\Debug\netcoreapp3.1\Projeto-16-11-20020.pdb
+C:\Projetos SENAI\Projeto-16-11-20020\obj\Debug\netcoreapp3.1\Projeto-16-11-20020.genruntimeconfig.cache
